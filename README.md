@@ -22,8 +22,12 @@
 <br>
 <h2 align="center">📊 GitHub Stats:</h2>
 
-![](https://github-readme-stats.vercel.app/api?username=Aastha-Bharti&theme=radical&hide_border=false&include_all_commits=false&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=Aastha-Bharti&theme=radical&hide_border=false)<br/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aastha-Bharti&theme=radical&hide_border=false&include_all_commits=false&count_private=true" />
+</p>
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Aastha-Bharti&theme=radical&hide_border=false" />
+</p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aastha-Bharti&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
 </p>
